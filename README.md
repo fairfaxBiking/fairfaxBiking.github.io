@@ -1,2 +1,2 @@
-# fairfaxBiking.github.io
+# Fairfax Biking
 Fairfax Biking website.
